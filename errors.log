@@ -1,0 +1,59 @@
+2026-01-13 00:32:16 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\reports.php à la ligne 110
+2026-01-13 00:32:16 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\reports.php à la ligne 184
+2026-01-13 00:32:16 - Exception: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND ta.status = 'pending'' at line 1 dans C:\xampp\htdocs\digital_yourhope\dashboard\school\reports.php:184
+2026-01-13 00:32:42 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 175
+2026-01-13 00:32:42 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 244
+2026-01-13 00:33:04 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 175
+2026-01-13 00:33:04 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 244
+2026-01-13 00:39:13 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 175
+2026-01-13 00:39:13 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 244
+2026-01-13 00:39:30 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 175
+2026-01-13 00:39:30 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 244
+2026-01-13 00:39:36 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 175
+2026-01-13 00:39:36 - Erreur [2] Undefined array key "id" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 244
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "email" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 197
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "phone" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 205
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "logo" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 211
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "address" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 230
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "city" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 236
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "country" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 244
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "website" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 250
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "established_year" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 259
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "school_type" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 266
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "school_type" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 267
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "school_type" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 268
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "accreditation" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 276
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "facilities" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 283
+2026-01-13 01:08:47 - Erreur [2] Undefined array key "description" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\profile.php à la ligne 290
+2026-01-16 07:00:22 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:54
+2026-01-16 07:00:58 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:54
+2026-01-16 07:01:01 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:54
+2026-01-16 07:01:08 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:54
+2026-01-16 07:03:41 - Erreur [2] Undefined variable $pdo dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 14
+2026-01-16 07:03:41 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:14
+2026-01-16 07:06:09 - Erreur [2] Undefined variable $pdo dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 14
+2026-01-16 07:06:09 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:14
+2026-01-16 07:10:53 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:17
+2026-01-16 07:13:36 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:20
+2026-01-16 07:13:43 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:20
+2026-01-16 07:14:04 - Exception: Call to a member function prepare() on null dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:17
+2026-01-16 08:19:36 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:81
+2026-01-16 17:34:10 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.payment_status' in 'field list' dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php:80
+2026-01-16 18:06:39 - Erreur [2] Undefined array key "logo" dans C:\xampp\htdocs\digital_yourhope\dashboard\school\index.php à la ligne 337
+2026-01-16 18:10:02 - Erreur [2] require_once(../../../includes/school_config.php): Failed to open stream: No such file or directory dans C:\xampp\htdocs\digital_yourhope\dashboard\school\configurations.php à la ligne 4
+2026-01-16 18:10:02 - Exception: Failed opening required '../../../includes/school_config.php' (include_path='C:\xampp\php\PEAR') dans C:\xampp\htdocs\digital_yourhope\dashboard\school\configurations.php:4
+2026-01-17 00:41:34 - Erreur [8192] Required parameter $created_by follows optional parameter $title dans C:\xampp\htdocs\digital_yourhope\includes\messaging_functions.php à la ligne 9
+2026-01-17 00:41:34 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.created_at' in 'field list' dans C:\xampp\htdocs\digital_yourhope\includes\messaging_functions.php:223
+2026-01-17 00:41:39 - Erreur [8192] Required parameter $created_by follows optional parameter $title dans C:\xampp\htdocs\digital_yourhope\includes\messaging_functions.php à la ligne 9
+2026-01-17 00:41:39 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.created_at' in 'field list' dans C:\xampp\htdocs\digital_yourhope\includes\messaging_functions.php:223
+2026-01-17 00:55:38 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\profile.php:23
+2026-01-17 00:55:43 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\appointments.php:18
+2026-01-17 00:55:46 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\children.php:18
+2026-01-17 00:56:00 - Exception: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.reviewed' in 'where clause' dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\reviews.php:80
+2026-01-17 00:56:52 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\appointments.php:18
+2026-01-17 00:57:01 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\appointments.php:18
+2026-01-17 00:57:06 - Exception: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'digital_yourhope.parent_children' doesn't exist dans C:\xampp\htdocs\digital_yourhope\dashboard\parent\children.php:18
+2026-01-17 01:43:18 - Erreur [2] require_once(../../../includes/school_config.php): Failed to open stream: No such file or directory dans C:\xampp\htdocs\digital_yourhope\dashboard\school\classes.php à la ligne 3
+2026-01-17 01:43:18 - Exception: Failed opening required '../../../includes/school_config.php' (include_path='C:\xampp\php\PEAR') dans C:\xampp\htdocs\digital_yourhope\dashboard\school\classes.php:3
+2026-01-17 01:43:44 - Erreur [2] require_once(../../../includes/school_config.php): Failed to open stream: No such file or directory dans C:\xampp\htdocs\digital_yourhope\dashboard\school\configurations.php à la ligne 3
+2026-01-17 01:43:44 - Exception: Failed opening required '../../../includes/school_config.php' (include_path='C:\xampp\php\PEAR') dans C:\xampp\htdocs\digital_yourhope\dashboard\school\configurations.php:3
