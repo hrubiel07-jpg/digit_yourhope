@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . '/../../includes/config.php';
-require_once '../../../includes/school_config.php';
+require_once __DIR__ . '/../../includes/school_config.php';
 requireLogin();
 
 if ($_SESSION['user_type'] !== 'school') {
